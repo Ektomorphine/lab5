@@ -1,3 +1,4 @@
+
 Template.body.helpers({
 tasks: [
 { text: 'This is task 1' },
