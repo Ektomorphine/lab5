@@ -32,3 +32,5 @@ Template.body.helpers({
     { text: 'This is task 3' },
   ],
 });
+
+import '../imports/ui/body.js';
